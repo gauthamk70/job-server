@@ -119,7 +119,9 @@
         "about": "",
         "education": [],
         "workExperience": [],
-        "skills": []
+        "skills": [
+          "ss"
+        ]
       },
       "id": 2
     }
