@@ -1,0 +1,310 @@
+{
+  "users": [
+    {
+      "name": "Gautham",
+      "email": "gauthamk70@gmail.com",
+      "password": "123",
+      "appliedJobs": [
+        {
+          "id": 1,
+          "jobTitle": "Frontend Developer",
+          "company": "TechNova Solutions",
+          "companyLogo": "https://img.freepik.com/free-vector/bird-colorful-gradient-design-vector_343694-2506.jpg?semt=ais_hybrid&w=740&q=80",
+          "jobDescription": "We are looking for a skilled frontend developer experienced in React and modern UI frameworks.",
+          "jobDescriptionLong": "As a Frontend Developer at TechNova Solutions, you will be responsible for building responsive and user-friendly web interfaces using modern JavaScript frameworks. You will collaborate with designers and backend developers to implement high-quality UI components, optimize performance, and ensure cross-browser compatibility. The role requires strong problem-solving skills and a passion for creating intuitive user experiences.",
+          "skillsRequired": [
+            "React",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Redux"
+          ],
+          "experienceRequired": "2-4 years",
+          "salary": "6-8 LPA",
+          "workMode": "Remote",
+          "postedAt": "2026-03-07T03:36:20.663Z"
+        },
+        {
+          "id": 3,
+          "jobTitle": "Full Stack Developer",
+          "company": "InnovateX",
+          "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0bRP4ulyWGFz_fCgm11D687Gbqmy1tMreA&s",
+          "jobDescription": "Work on both frontend and backend to develop modern web applications.",
+          "jobDescriptionLong": "As a Full Stack Developer at InnovateX, you will work across the entire development stack to create scalable web applications. Your responsibilities include designing frontend interfaces, developing backend APIs, integrating databases, and ensuring smooth deployment. You will collaborate with product teams to build new features and continuously improve application performance and usability.",
+          "skillsRequired": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB"
+          ],
+          "experienceRequired": "2-5 years",
+          "salary": "10-15 LPA",
+          "workMode": "Hybrid",
+          "postedAt": "2026-01-05T07:25:30.100Z"
+        }
+      ],
+      "profile": {
+        "gender": "",
+        "location": "",
+        "about": "",
+        "education": [],
+        "workExperience": [],
+        "skills": []
+      },
+      "id": 1
+    },
+    {
+      "name": "Neena KR",
+      "email": "neena@123",
+      "password": "789",
+      "appliedJobs": [
+        {
+          "id": 5,
+          "jobTitle": "DevOps Engineer",
+          "company": "CloudBridge Tech",
+          "companyLogo": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+          "jobDescription": "Manage CI/CD pipelines and cloud infrastructure for scalable applications.",
+          "jobDescriptionLong": "The DevOps Engineer will manage deployment pipelines, monitor cloud infrastructure, and automate development workflows. You will work with development teams to improve system reliability, automate build processes, and manage containerized environments. Knowledge of cloud platforms and infrastructure automation tools is essential.",
+          "skillsRequired": [
+            "Docker",
+            "AWS",
+            "CI/CD",
+            "Linux"
+          ],
+          "experienceRequired": "3-6 years",
+          "salary": "12-18 LPA",
+          "workMode": "Hybrid",
+          "postedAt": "2026-02-25T06:40:12.320Z"
+        },
+        {
+          "id": 9,
+          "jobTitle": "Cyber Security Analyst",
+          "company": "SecureNet Systems",
+          "companyLogo": "https://cdn-icons-png.flaticon.com/512/3064/3064197.png",
+          "jobDescription": "Protect systems and networks from cyber threats.",
+          "jobDescriptionLong": "The Cyber Security Analyst will monitor systems, detect security threats, and implement security measures to protect company data and infrastructure. You will conduct vulnerability assessments and respond to security incidents.",
+          "skillsRequired": [
+            "Network Security",
+            "Ethical Hacking",
+            "Firewalls",
+            "Risk Assessment"
+          ],
+          "experienceRequired": "3-5 years",
+          "salary": "10-14 LPA",
+          "workMode": "Hybrid",
+          "postedAt": "2026-01-12T05:55:20.550Z"
+        },
+        {
+          "id": 8,
+          "jobTitle": "Software Tester",
+          "company": "QualitySoft Ltd",
+          "companyLogo": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+          "jobDescription": "Test applications to ensure quality and reliability.",
+          "jobDescriptionLong": "As a Software Tester, you will design test cases, perform manual and automated testing, and report bugs to development teams. You will ensure that applications meet functional and performance standards before deployment.",
+          "skillsRequired": [
+            "Manual Testing",
+            "Selenium",
+            "Test Cases",
+            "Bug Tracking"
+          ],
+          "experienceRequired": "1-3 years",
+          "salary": "4-6 LPA",
+          "workMode": "Office",
+          "postedAt": "2026-01-18T03:45:18.450Z"
+        }
+      ],
+      "profile": {
+        "gender": "Female",
+        "location": "Thrissur",
+        "about": "",
+        "education": [],
+        "workExperience": [],
+        "skills": []
+      },
+      "id": 2
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "jobTitle": "Frontend Developer",
+      "company": "TechNova Solutions",
+      "companyLogo": "https://img.freepik.com/free-vector/bird-colorful-gradient-design-vector_343694-2506.jpg?semt=ais_hybrid&w=740&q=80",
+      "jobDescription": "We are looking for a skilled frontend developer experienced in React and modern UI frameworks.",
+      "jobDescriptionLong": "As a Frontend Developer at TechNova Solutions, you will be responsible for building responsive and user-friendly web interfaces using modern JavaScript frameworks. You will collaborate with designers and backend developers to implement high-quality UI components, optimize performance, and ensure cross-browser compatibility. The role requires strong problem-solving skills and a passion for creating intuitive user experiences.",
+      "skillsRequired": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Redux"
+      ],
+      "experienceRequired": "2-4 years",
+      "salary": "6-8 LPA",
+      "workMode": "Remote",
+      "postedAt": "2026-03-07T03:36:20.663Z"
+    },
+    {
+      "id": 2,
+      "jobTitle": "Backend Developer",
+      "company": "CodeCraft Labs",
+      "companyLogo": "https://i.pinimg.com/564x/d2/c1/6d/d2c16d99034f9407fd708dfc3356c688.jpg",
+      "jobDescription": "Responsible for building scalable APIs and handling server-side logic.",
+      "jobDescriptionLong": "The Backend Developer will design and develop scalable server-side applications and RESTful APIs. You will work closely with frontend teams to integrate APIs, manage databases, and ensure system security and performance. The role includes optimizing queries, implementing authentication systems, and maintaining application stability in production environments.",
+      "skillsRequired": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST API"
+      ],
+      "experienceRequired": "3-5 years",
+      "salary": "8-12 LPA",
+      "workMode": "Office",
+      "postedAt": "2026-03-06T11:10:45.210Z"
+    },
+    {
+      "id": 3,
+      "jobTitle": "Full Stack Developer",
+      "company": "InnovateX",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0bRP4ulyWGFz_fCgm11D687Gbqmy1tMreA&s",
+      "jobDescription": "Work on both frontend and backend to develop modern web applications.",
+      "jobDescriptionLong": "As a Full Stack Developer at InnovateX, you will work across the entire development stack to create scalable web applications. Your responsibilities include designing frontend interfaces, developing backend APIs, integrating databases, and ensuring smooth deployment. You will collaborate with product teams to build new features and continuously improve application performance and usability.",
+      "skillsRequired": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "experienceRequired": "2-5 years",
+      "salary": "10-15 LPA",
+      "workMode": "Hybrid",
+      "postedAt": "2026-01-05T07:25:30.100Z"
+    },
+    {
+      "id": 4,
+      "jobTitle": "UI/UX Designer",
+      "company": "PixelCraft Studio",
+      "companyLogo": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+      "jobDescription": "Design modern and user-friendly interfaces for web and mobile applications.",
+      "jobDescriptionLong": "As a UI/UX Designer at PixelCraft Studio, you will be responsible for creating visually appealing and intuitive designs for digital products. You will conduct user research, develop wireframes, prototypes, and collaborate closely with developers to ensure smooth implementation of designs. The role requires creativity, attention to detail, and strong understanding of user experience principles.",
+      "skillsRequired": [
+        "Figma",
+        "Adobe XD",
+        "User Research",
+        "Wireframing"
+      ],
+      "experienceRequired": "1-3 years",
+      "salary": "5-7 LPA",
+      "workMode": "Remote",
+      "postedAt": "2026-02-12T09:10:20.663Z"
+    },
+    {
+      "id": 5,
+      "jobTitle": "DevOps Engineer",
+      "company": "CloudBridge Tech",
+      "companyLogo": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      "jobDescription": "Manage CI/CD pipelines and cloud infrastructure for scalable applications.",
+      "jobDescriptionLong": "The DevOps Engineer will manage deployment pipelines, monitor cloud infrastructure, and automate development workflows. You will work with development teams to improve system reliability, automate build processes, and manage containerized environments. Knowledge of cloud platforms and infrastructure automation tools is essential.",
+      "skillsRequired": [
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "Linux"
+      ],
+      "experienceRequired": "3-6 years",
+      "salary": "12-18 LPA",
+      "workMode": "Hybrid",
+      "postedAt": "2026-02-25T06:40:12.320Z"
+    },
+    {
+      "id": 6,
+      "jobTitle": "Data Analyst",
+      "company": "Insight Analytics",
+      "companyLogo": "https://cdn-icons-png.flaticon.com/512/4149/4149676.png",
+      "jobDescription": "Analyze datasets and generate business insights.",
+      "jobDescriptionLong": "As a Data Analyst at Insight Analytics, you will analyze large datasets to uncover trends and provide actionable insights for business decisions. You will create dashboards, reports, and visualizations while collaborating with cross-functional teams to understand data requirements.",
+      "skillsRequired": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "experienceRequired": "2-4 years",
+      "salary": "6-9 LPA",
+      "workMode": "Office",
+      "postedAt": "2026-02-10T04:20:55.450Z"
+    },
+    {
+      "id": 7,
+      "jobTitle": "Mobile App Developer",
+      "company": "AppWave Technologies",
+      "companyLogo": "https://cdn-icons-png.flaticon.com/512/888/888857.png",
+      "jobDescription": "Develop cross-platform mobile applications.",
+      "jobDescriptionLong": "The Mobile App Developer will build high-performance mobile applications for Android and iOS using modern frameworks. You will design responsive interfaces, integrate APIs, and ensure optimal performance across devices.",
+      "skillsRequired": [
+        "React Native",
+        "Flutter",
+        "JavaScript",
+        "REST API"
+      ],
+      "experienceRequired": "2-4 years",
+      "salary": "7-11 LPA",
+      "workMode": "Hybrid",
+      "postedAt": "2026-01-20T08:15:42.123Z"
+    },
+    {
+      "id": 8,
+      "jobTitle": "Software Tester",
+      "company": "QualitySoft Ltd",
+      "companyLogo": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+      "jobDescription": "Test applications to ensure quality and reliability.",
+      "jobDescriptionLong": "As a Software Tester, you will design test cases, perform manual and automated testing, and report bugs to development teams. You will ensure that applications meet functional and performance standards before deployment.",
+      "skillsRequired": [
+        "Manual Testing",
+        "Selenium",
+        "Test Cases",
+        "Bug Tracking"
+      ],
+      "experienceRequired": "1-3 years",
+      "salary": "4-6 LPA",
+      "workMode": "Office",
+      "postedAt": "2026-01-18T03:45:18.450Z"
+    },
+    {
+      "id": 9,
+      "jobTitle": "Cyber Security Analyst",
+      "company": "SecureNet Systems",
+      "companyLogo": "https://cdn-icons-png.flaticon.com/512/3064/3064197.png",
+      "jobDescription": "Protect systems and networks from cyber threats.",
+      "jobDescriptionLong": "The Cyber Security Analyst will monitor systems, detect security threats, and implement security measures to protect company data and infrastructure. You will conduct vulnerability assessments and respond to security incidents.",
+      "skillsRequired": [
+        "Network Security",
+        "Ethical Hacking",
+        "Firewalls",
+        "Risk Assessment"
+      ],
+      "experienceRequired": "3-5 years",
+      "salary": "10-14 LPA",
+      "workMode": "Hybrid",
+      "postedAt": "2026-01-12T05:55:20.550Z"
+    },
+    {
+      "id": 10,
+      "jobTitle": "AI/ML Engineer",
+      "company": "NeuroTech AI",
+      "companyLogo": "https://cdn-icons-png.flaticon.com/512/4149/4149647.png",
+      "jobDescription": "Develop intelligent systems using machine learning algorithms.",
+      "jobDescriptionLong": "As an AI/ML Engineer at NeuroTech AI, you will build machine learning models, analyze large datasets, and deploy AI solutions into production systems. You will collaborate with data scientists and engineers to develop intelligent features for modern applications.",
+      "skillsRequired": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow",
+        "Data Science"
+      ],
+      "experienceRequired": "2-5 years",
+      "salary": "12-20 LPA",
+      "workMode": "Remote",
+      "postedAt": "2026-01-08T02:30:10.210Z"
+    }
+  ]
+}
